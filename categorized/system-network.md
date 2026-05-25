@@ -2,6 +2,12 @@
 
 > Free and open-source operating systems, virtualization tools, network utilities, and security software.
 
+| Icon | Operating System |
+| --- | --- |
+| 🪟 | Windows |
+| 🍎 | macOS |
+| 🐧 | Linux |
+
 ## Operating Systems
 - **Ubuntu**: Stable Linux distribution 🐧 → [ubuntu.com](https://ubuntu.com/)
 - **Debian**: Reliable Linux distribution 🐧 → [debian.org](https://www.debian.org/)
