@@ -2,6 +2,12 @@
 
 > Free and open-source utilities for web browsing, messaging, file management, and automation.
 
+| Icon | Operating System |
+| --- | --- |
+| 🪟 | Windows |
+| 🍎 | macOS |
+| 🐧 | Linux |
+
 ## Web Browsers
 - **Firefox**: Privacy-focused web browser 🪟 🍎 🐧 → [mozilla.org/firefox](https://www.mozilla.org/fr/firefox/)
 - **LibreWolf**: Hardened Firefox for privacy 🪟 🍎 🐧 → [librewolf.net](https://librewolf.net/)
