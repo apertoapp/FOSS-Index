@@ -16,7 +16,7 @@ Tools for coding, version control, databases, and DevOps.
 - [Development and Programming](categorized/development.md)
 
 List of operating systems, virtualization tools, network utilities, and security software.
-[System and Network](categorized/system-network.md)
+- [System and Network](categorized/system-network.md)
 
 Software for 3D modeling, CAD, and cartography.
 - [Graphics and CAD](categorized/graphics-cad.md)
