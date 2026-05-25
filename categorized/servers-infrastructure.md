@@ -2,6 +2,12 @@
 
 > Free and open-source software for web servers, monitoring, and collaboration tools.
 
+| Icon | Operating System |
+| --- | --- |
+| 🪟 | Windows |
+| 🍎 | macOS |
+| 🐧 | Linux |
+
 ## Web Servers
 - **Apache HTTP Server**: Historic web server 🪟 🍎 🐧 → [apache.org](https://httpd.apache.org/)
 - **Nginx**: High-performance web server and reverse proxy 🪟 🍎 🐧 → [nginx.org](https://nginx.org/)
