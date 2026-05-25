@@ -2,6 +2,12 @@
 
 > A curated list of free and open-source office and productivity software, including suites, project management, and note-taking tools.
 
+| Icon | Operating System |
+| --- | --- |
+| 🪟 | Windows |
+| 🍎 | macOS |
+| 🐧 | Linux |
+
 ## Word Processing and Office Suites
 - **LibreOffice**: Full suite (Writer, Calc, Impress, Draw, Base, Math) 🪟 🍎 🐧 → [libreoffice.org](https://www.libreoffice.org/)
 - **OnlyOffice**: Modern alternative with real-time collaboration 🪟 🍎 🐧 → [onlyoffice.com](https://www.onlyoffice.com/)
