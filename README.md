@@ -4,6 +4,15 @@ Welcome to this curated collection of free and open-source software, organized b
 
 > A categorized collection of free and open-source software for various needs, from productivity to specialized tools.
 
+## Compatibility Icons
+The following icons indicate the operating systems supported by each software:
+
+| Icon | Operating System |
+| --- | --- |
+| 🪟 | Windows |
+| 🍎 | macOS |
+| 🐧 | Linux |
+
 ## Categories
 
 List of office and productivity software, including suites, project management, and note-taking tools.
