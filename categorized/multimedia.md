@@ -2,6 +2,12 @@
 
 > Free and open-source software for image editing, video editing, audio production, and media playback.
 
+| Icon | Operating System |
+| --- | --- |
+| 🪟 | Windows |
+| 🍎 | macOS |
+| 🐧 | Linux |
+
 ## Image Editing
 - **GIMP**: Alternative to Photoshop for image processing 🪟 🍎 🐧 → [gimp.org](https://www.gimp.org/)
 - **Krita**: Digital painting and illustration software 🪟 🍎 🐧 → [krita.org](https://krita.org/)
