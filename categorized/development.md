@@ -1,6 +1,11 @@
 # Development and Programming
 
-> ree and open-source tools for coding, version control, databases, and DevOps. 
+> ree and open-source tools for coding, version control, databases, and DevOps.
+| Icon | Operating System |
+| --- | --- |
+| 🪟 | Windows |
+| 🍎 | macOS |
+| 🐧 | Linux |
 
 ## Code Editors
 - **VS Code (VSCodium)**: Modern code editor with extensions 🪟 🍎 🐧 → [vscodium.com](https://vscodium.com/)
