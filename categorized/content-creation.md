@@ -2,6 +2,12 @@
 
 > Free and open-source tools for podcasting, streaming, blogging, and design.
 
+| Icon | Operating System |
+| --- | --- |
+| 🪟 | Windows |
+| 🍎 | macOS |
+| 🐧 | Linux |
+
 ## Podcasting and Streaming
 - **OBS Studio**: Video capture and live streaming 🪟 🍎 🐧 → [obsproject.com](https://obsproject.com/)
 
