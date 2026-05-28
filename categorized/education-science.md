@@ -3,10 +3,10 @@
 > Free and open-source software for mathematics, astronomy, chemistry, and language learning.
 
 | Icon | Operating System |
-| --- | --- |
-| 🪟 | Windows |
-| 🍎 | macOS |
-| 🐧 | Linux |
+|------|------------------|
+| 🪟   | Windows          |
+| 🍎   | macOS            |
+| 🐧   | Linux            |
 
 ## Mathematics
 - **SageMath**: Advanced mathematical computation software 🪟 🍎 🐧 → [sagemath.org](https://www.sagemath.org/)

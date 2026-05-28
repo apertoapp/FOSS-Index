@@ -8,10 +8,10 @@ Welcome to this curated collection of free and open-source software, organized b
 The following icons indicate the operating systems supported by each software:
 
 | Icon | Operating System |
-| --- | --- |
-| 🪟 | Windows |
-| 🍎 | macOS |
-| 🐧 | Linux |
+|------|------------------|
+| 🪟   | Windows          |
+| 🍎   | macOS            |
+| 🐧   | Linux            |
 
 ## Categories
 
