@@ -1,4 +1,4 @@
-# Graphics and CAD
+## Graphics and Cartography
 
 > Free and open-source software for 3D modeling, CAD, and cartography.
 
